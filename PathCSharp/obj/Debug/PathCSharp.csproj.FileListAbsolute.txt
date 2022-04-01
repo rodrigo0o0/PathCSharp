@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\bin\Debug\PathCSharp.exe.config
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\bin\Debug\PathCSharp.exe
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\bin\Debug\PathCSharp.pdb
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\obj\Debug\PathCSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\obj\Debug\PathCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\obj\Debug\PathCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\obj\Debug\PathCSharp.exe
+C:\Users\sande\source\repos\PathCSharp\PathCSharp\obj\Debug\PathCSharp.pdb
